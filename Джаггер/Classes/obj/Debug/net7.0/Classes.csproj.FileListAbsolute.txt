@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Джаггер\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\Users\Admin\Desktop\Джаггер\Classes\bin\Debug\net7.0\Classes.dll
+C:\Users\Admin\Desktop\Джаггер\Classes\bin\Debug\net7.0\Classes.pdb
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.dll
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\Classes.pdb
+C:\Users\Admin\Desktop\Джаггер\Classes\obj\Debug\net7.0\ref\Classes.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\bin\Debug\net7.0\Classes.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\bin\Debug\net7.0\Classes.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\Classes.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Classes\obj\Debug\net7.0\ref\Classes.dll

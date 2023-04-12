@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Electives.exe
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Electives.deps.json
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Electives.runtimeconfig.json
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Electives.dll
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Electives.pdb
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Classes.dll
+C:\Users\Admin\Desktop\Джаггер\Electives\bin\Debug\net7.0\Classes.pdb
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.csproj.CopyComplete
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.dll
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\refint\Electives.dll
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.pdb
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\Electives.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Джаггер\Electives\obj\Debug\net7.0\ref\Electives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Electives.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Electives.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Electives.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Electives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Electives.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Classes.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\bin\Debug\net7.0\Classes.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\refint\Electives.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\Electives.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Джаггер\Electives\obj\Debug\net7.0\ref\Electives.dll
